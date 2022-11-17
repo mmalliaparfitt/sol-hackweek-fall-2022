@@ -19,10 +19,11 @@ The robot is made using scraps left over from a recent house move and old bits o
 This was the bit that took the longest, as the Arduino Uno is a rather slow board, but using a fantastic resource from [ScienceDirect](https://www.sciencedirect.com/topics/engineering/sending-pulse) and a sketch from [iForce2D](http://www.iforce2d.net/sketches/) for stepper motor synchronisation I got it all to work!
 
 ## Step 3: Reverse engineer coordinates from line art and the Unity Logo
-This was mind numbing, and i did resort to using Excel (booooooooo) but it worked fine.
+This was mind numbing, and I did resort to using Excel (booooooooo) but it worked fine.
 
 ## Step 4: Next phases
-Due to having several projects on currently, I was not able to spend the Hackweek just on hacking, as such what you see in this video is the result of 2-ish days of fun. Next steps are:
+Due to having several projects on currently, I was not able to spend the Hackweek just on hacking, as such what you see in this [video](https://youtu.be/6dEwVYz8yZA) is the result of 2-ish days of fun.
+Next steps are:
 1. Write a WebServer for my Raspberry Pi 3b
     1. Ingest an image sent from the Unity Editor Scene or Game Window
     2. Convert this to line art
